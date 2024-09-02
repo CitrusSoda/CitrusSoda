@@ -1,5 +1,6 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=24&duration=4000&pause=1000&color=F7CFE1&center=true&vCenter=true&width=700&lines=Hello%2C+Welcome!+%F0%9F%99%8C;I+love+music!+%F0%9F%8E%B5;Nice+to+meet+you!+%F0%9F%8E%B6" alt="Typing SVG" /></a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=40&duration=4000&pause=1000&color=F7CFE1&center=true&vCenter=true&width=700&lines=Hello%2C+Welcome!+%F0%9F%99%8C;I+love+music!+%F0%9F%8E%B5;Nice+to+meet+you!+%F0%9F%8E%B6" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
