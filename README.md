@@ -3,41 +3,60 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=40&duration=4000&pause=1000&color=F7CFE1&center=true&vCenter=true&width=700&lines=Hello%2C+Welcome!+%F0%9F%99%8C;I+love+music!+%F0%9F%8E%B5;Nice+to+meet+you!+%F0%9F%8E%B6" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-  <code><a href="https://github.com/CitrusSoda" title="Github Profile"><img width="22" src="images/github-color.svg">Github</a></code>
-</p>
+###
 
-<p align="center">
-    🔬 I'm currently aspiring to become a front-end engineer and eventually a full-stack engineer.
-</p>
-<p align="center">
-    🎓 I majored in Mechanical Systems and double-majored in Software during my undergraduate studies.
-</p>
-<p align="center">
-    💻 Currently, I am mainly studying React and Next.js.
-</p>
-<p align="center">
-    📚 I also occasionally study FASTAPI.
-</p>
-<p align="center">
-    🎵 I love playing musical instruments as a hobby and have a deep passion for music.
-</p>
+<h2 align="center">Hi 👋 My name is CitrusSoda</h2>
 
-<hr>
-<h2 align="center">🛠️ Tech Stack</h2>
-<br>
-<p align="center">
-    <img src="images/javascript-color.svg" alt="JavaScript" title="JavaScript" width="25" height="25"/>
-    <img src="images/typescript-color.svg" alt="TypeScript" title="TypeScript" width="25" height="25"/>
-    <img src="images/react-color.svg" alt="React" title="React" width="25" height="25"/>
-    <img src="images/nextdotjs-color.svg" alt="Next.js" title="Next.js" width="25" height="25"/>
-    <img src="images/tailwindcss-color.svg" alt="Tailwind CSS" title="Tailwind CSS" width="25" height="25"/>
-    <img src="images/python-color.svg" alt="Python" title="Python" width="25" height="25"/>
-    <img src="images/fastapi-color.svg" alt="FastAPI" title="FastAPI" width="25" height="25"/>
-    <img src="images/pytorch-color.svg" alt="PyTorch" title="PyTorch" width="25" height="25"/>
-</p>
+###
 
-<h2 align="center">🔥 GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CitrusSoda&show_icons=true&theme=radical" alt="CitrusSoda's GitHub stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CitrusSoda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CitrusSoda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CitrusSoda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtcTJiM2xpOHB0cWZxNzEwMWI1aHN0MzNmMnNwOGVqYWc3dHR0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFtWp05vBYnMQ/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CitrusSoda/CitrusSoda/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CitrusSoda/count.svg?"  />
+</div>
+
+###
